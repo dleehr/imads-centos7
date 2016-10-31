@@ -1,0 +1,3 @@
+[submodule "gcb-ansible"]
+	path = gcb-ansible
+	url = git@github.com:Duke-GCB/gcb-ansible.git
